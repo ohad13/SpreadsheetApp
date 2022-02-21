@@ -1,0 +1,41 @@
+C:\Users\mille\source\repos\SpreadsheetApp\obj\Debug\SpreadsheetApp.csprojAssemblyReference.cache
+C:\Users\mille\source\repos\SpreadsheetApp\obj\Debug\SpreadsheetApp.Form1.resources
+C:\Users\mille\source\repos\SpreadsheetApp\obj\Debug\SpreadsheetApp.Properties.Resources.resources
+C:\Users\mille\source\repos\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\mille\source\repos\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\mille\source\repos\SpreadsheetApp\bin\Debug\SpreadsheetApp.exe.config
+C:\Users\mille\source\repos\SpreadsheetApp\bin\Debug\SpreadsheetApp.exe
+C:\Users\mille\source\repos\SpreadsheetApp\bin\Debug\SpreadsheetApp.pdb
+C:\Users\mille\source\repos\SpreadsheetApp\obj\Debug\SpreadsheetApp.exe
+C:\Users\mille\source\repos\SpreadsheetApp\obj\Debug\SpreadsheetApp.pdb
+C:\Users\USER\Desktop\temp\SpreadsheetApp\SpreadsheetApp\bin\Debug\SpreadsheetApp.exe.config
+C:\Users\USER\Desktop\temp\SpreadsheetApp\SpreadsheetApp\bin\Debug\SpreadsheetApp.exe
+C:\Users\USER\Desktop\temp\SpreadsheetApp\SpreadsheetApp\bin\Debug\SpreadsheetApp.pdb
+C:\Users\USER\Desktop\temp\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\temp\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.Form1.resources
+C:\Users\USER\Desktop\temp\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.Properties.Resources.resources
+C:\Users\USER\Desktop\temp\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\temp\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\temp\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.exe
+C:\Users\USER\Desktop\temp\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.pdb
+C:\Users\mille\Desktop\הפעלה\עבודות\תרגיל 3\להגשה\SpreadsheetApp\bin\Debug\SpreadsheetApp.exe.config
+C:\Users\mille\Desktop\הפעלה\עבודות\תרגיל 3\להגשה\SpreadsheetApp\bin\Debug\SpreadsheetApp.exe
+C:\Users\mille\Desktop\הפעלה\עבודות\תרגיל 3\להגשה\SpreadsheetApp\bin\Debug\SpreadsheetApp.pdb
+C:\Users\mille\Desktop\הפעלה\עבודות\תרגיל 3\להגשה\SpreadsheetApp\obj\Debug\SpreadsheetApp.csprojAssemblyReference.cache
+C:\Users\mille\Desktop\הפעלה\עבודות\תרגיל 3\להגשה\SpreadsheetApp\obj\Debug\SpreadsheetApp.Form1.resources
+C:\Users\mille\Desktop\הפעלה\עבודות\תרגיל 3\להגשה\SpreadsheetApp\obj\Debug\SpreadsheetApp.Properties.Resources.resources
+C:\Users\mille\Desktop\הפעלה\עבודות\תרגיל 3\להגשה\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\mille\Desktop\הפעלה\עבודות\תרגיל 3\להגשה\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\mille\Desktop\הפעלה\עבודות\תרגיל 3\להגשה\SpreadsheetApp\obj\Debug\SpreadsheetApp.exe
+C:\Users\mille\Desktop\הפעלה\עבודות\תרגיל 3\להגשה\SpreadsheetApp\obj\Debug\SpreadsheetApp.pdb
+C:\Users\mille\Desktop\שנה ב\סמסטר ד\הפעלה\עבודות\תרגיל 3\313597718_316294032\SpreadsheetApp\bin\Debug\SpreadsheetApp.exe.config
+C:\Users\mille\Desktop\שנה ב\סמסטר ד\הפעלה\עבודות\תרגיל 3\313597718_316294032\SpreadsheetApp\bin\Debug\SpreadsheetApp.exe
+C:\Users\mille\Desktop\שנה ב\סמסטר ד\הפעלה\עבודות\תרגיל 3\313597718_316294032\SpreadsheetApp\bin\Debug\SpreadsheetApp.pdb
+C:\Users\mille\Desktop\שנה ב\סמסטר ד\הפעלה\עבודות\תרגיל 3\313597718_316294032\SpreadsheetApp\obj\Debug\SpreadsheetApp.Form1.resources
+C:\Users\mille\Desktop\שנה ב\סמסטר ד\הפעלה\עבודות\תרגיל 3\313597718_316294032\SpreadsheetApp\obj\Debug\SpreadsheetApp.Properties.Resources.resources
+C:\Users\mille\Desktop\שנה ב\סמסטר ד\הפעלה\עבודות\תרגיל 3\313597718_316294032\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\mille\Desktop\שנה ב\סמסטר ד\הפעלה\עבודות\תרגיל 3\313597718_316294032\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\mille\Desktop\שנה ב\סמסטר ד\הפעלה\עבודות\תרגיל 3\313597718_316294032\SpreadsheetApp\obj\Debug\SpreadsheetApp.exe
+C:\Users\mille\Desktop\שנה ב\סמסטר ד\הפעלה\עבודות\תרגיל 3\313597718_316294032\SpreadsheetApp\obj\Debug\SpreadsheetApp.pdb
+C:\Users\mille\Desktop\שנה ב\סמסטר ד\הפעלה\עבודות\תרגיל 3\313597718_316294032\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.AssemblyReference.cache
+C:\Users\mille\Desktop\שנה ב\סמסטר ד\הפעלה\עבודות\תרגיל 3\313597718_316294032\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.SuggestedBindingRedirects.cache
